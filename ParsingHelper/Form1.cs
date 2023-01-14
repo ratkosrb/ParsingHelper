@@ -266,6 +266,7 @@ namespace ParsingHelper
                 return;
             }
 
+            this.Text = "Parsing Helper";
             MessageBox.Show("Done!", "Parsing Helper");
         }
 
